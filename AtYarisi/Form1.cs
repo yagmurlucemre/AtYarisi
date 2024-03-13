@@ -4,6 +4,7 @@ namespace AtYarisi
 {
     public partial class Form1 : Form
     {
+        //Yorum satýrý
         Random rnd = new Random();
         WindowsMediaPlayer player = new WindowsMediaPlayer();
         int kosus = 0;
